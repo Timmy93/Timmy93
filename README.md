@@ -78,7 +78,7 @@
 <img src="https://github.com/Timmy93/Timmy93/blob/main/Icons/linux-original.svg" alt="linux" width="40" height="40"/> 
 </a> 
 <a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> 
-<img src="https://github.com/Timmy93/Timmy93/blob/main/Icons/microsoft-sql-server.svg" alt="mssql" width="40" height="40"/> 
+<img src="https://github.com/Timmy93/Timmy93/blob/main/Icons/microsoftsqlserver-plain.svg" alt="mssql" width="40" height="40"/> 
 </a> 
 <a href="https://www.mysql.com/" target="_blank"> 
 <img src="https://github.com/Timmy93/Timmy93/blob/main/Icons/mysql-original.svg" alt="mysql" width="40" height="40"/> 
