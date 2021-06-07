@@ -1,3 +1,5 @@
+[![Timmy's GitHub stats](https://test2-ten-plum.vercel.app/api?username=Timmy93)](https://github.com/Timmy93/github-readme-stats2)
+
 <h1 align="center">Hi 👋, I'm Federico aka Timmy93</h1>
 <h3 align="center">A security engineer from Italy always looking for new technologies and side projects</h3>
 
